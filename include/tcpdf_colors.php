@@ -44,6 +44,7 @@
  * @package com.tecnick.tcpdf
  * @version 1.0.004
  * @author Nicola Asuni - info@tecnick.com
+ * @fork Matteo Locci - info@sardegnasocieta.it
  */
 class TCPDF_COLORS {
 
@@ -201,6 +202,7 @@ class TCPDF_COLORS {
 		'whitesmoke' => 'f5f5f5',
 		'yellow' => 'ffff00',
 		'yellowgreen' => '9acd32'
+		'maluma' => 'd4634f'
 	); // end of web colors
 
 	/**
